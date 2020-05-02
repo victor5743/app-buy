@@ -1,9 +1,9 @@
 <template>
-	<div class="px-8 py-4 border-b-2 border-gray-500 ">
+	<div class="px-8 py-4 border-b-2 border-gray-500">
 		<div class="flex justify-between items-center">
 			<div class="flex items-center">
 				<a href="#"><img class="h-12 w-12" src="../assets/logo.png" alt="Logo app"/></a>
-				<span class="text-xl font-semibold text-gray-800">App</span>
+				<a href="#" class="text-xl font-semibold text-gray-800">Vue-App</a>
 			</div>
 			<div class="flex items-center">
 				<a class="hover:text-gray-700 " href="#">Download</a>

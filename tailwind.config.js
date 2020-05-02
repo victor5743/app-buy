@@ -5,6 +5,10 @@ module.exports = {
 			fontFamily: {
 				Lato: 'Lato',
 			},
+			colors: {
+				primary: '#1179bf',
+				secondary: '#038e7d',
+			},
 		},
 	},
 	variants: {},
