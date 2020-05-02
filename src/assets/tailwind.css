@@ -2,4 +2,12 @@
 
 @tailwind components;
 
+.btn-gray {
+	@apply px-4 py-2 border-2 border-gray-800 bg-white text-gray-800 rounded-lg;
+}
+
+.btn-gray:hover {
+	@apply bg-gray-800 text-white;
+}
+
 @tailwind utilities;
