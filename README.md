@@ -1,4 +1,4 @@
-# app-buy
+# Vue app-buy
 
 Responsive UI interface to buy an application using:
 
@@ -7,4 +7,6 @@ Responsive UI interface to buy an application using:
 
 ## Application preview:
 
-<center>(./src/assets/preview.png)</center>
+<p align="center"> 
+  <img src="./src/assets/preview.png" /> 
+</p>
