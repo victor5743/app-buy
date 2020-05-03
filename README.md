@@ -1,24 +1,12 @@
 # app-buy
 
-## Project setup
-```
-npm install
-```
+Responsive UI interface to buy an application using:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- Vue JS
+- Tailwind CSS
 
-### Compiles and minifies for production
-```
-npm run build
-```
+---
 
-### Lints and fixes files
-```
-npm run lint
-```
+##Preview:
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Preview](./src/assets/preview.png)
