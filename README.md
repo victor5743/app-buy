@@ -5,8 +5,6 @@ Responsive UI interface to buy an application using:
 - Vue JS
 - Tailwind CSS
 
----
+## Application preview:
 
-##Preview:
-
-![Preview](./src/assets/preview.png)
+<center>(./src/assets/preview.png)</center>
