@@ -11,7 +11,7 @@
 }
 
 .input-gray {
-	@apply bg-gray-400 text-sm rounded-md px-3 py-1;
+	@apply bg-gray-400 text-sm rounded-md px-3 py-2;
 }
 
 .input-gray:focus {
